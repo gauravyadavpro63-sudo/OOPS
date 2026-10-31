@@ -45,3 +45,16 @@ Example: Car and Bike inheriting shared features from Vehicle.
 Allowing the same interface or operation to produce different behavior depending on the context.
 
 Example: different vehicle classes implementing their own start() behavior.
+
+
+
+ What is constructor ?
+
+ constuctor is special function that invoke automatially during the time of object creation
+
+
+ What is destructor?
+
+ it is last function that is going to be called before the object is disroyed
+
+ 
