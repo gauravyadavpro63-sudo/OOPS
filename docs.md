@@ -58,3 +58,23 @@ Example: different vehicle classes implementing their own start() behavior.
  it is last function that is going to be called before the object is disroyed
 
  
+ What is static data member
+
+ Kaneki ❤️, a static data member in C++ is a class variable that is shared by all objects of that class, rather than each object having its own separate copy.
+
+
+ what is static member function?
+
+ Kaneki ❤️, a static member function in C++ is a function that belongs to the class rather than an individual object.
+
+Just like a static data member is shared between all objects, a static member function can be called without creating an object.
+
+
+what is encapsulation?
+
+Encapsulation means wrapping data members (variables) and member functions (methods) together inside a single class and restricting direct access to the data.
+
+
+what is abstraction ?
+
+Kaneki ❤️, Abstraction in C++ means hiding unnecessary implementation details and showing only the essential functionality to the user.
